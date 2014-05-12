@@ -3,17 +3,11 @@ layout: base
 itemtype: http://schema.org/WebPage
 ---
 <div class="row">
-  <div class="sidebar span4">
-    <img src="{{site.baseurl}}{{ site.data.course.image }}">
-    <ul class="nav nav-list">
-    {% for subpage in site.categories.content reversed %}
-      <li> <a href="{{site.baseurl}}{{ subpage.url }}">{{subpage.title}}</a></li>
-    {% endfor %}
-    </ul>
+  <div class="sidebar col-md-4 col-lg-4">
+    <img class="img-responsive" src="{{site.baseurl}}{{ site.data.course.image }}">
   </div>
 
-  <div class="content span8">
-    <h2>About</h2>
+  <div class="content col-md-12 col-lg-12">
     {{ content }}
   </div>
 </div>

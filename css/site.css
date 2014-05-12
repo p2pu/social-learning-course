@@ -1,4 +1,16 @@
-.user-image {
-    max-width: 100px;
-    max-height: 100px;
+---
+---
+.brand {
+    background: url("{{site.baseurl}}/img/logo.png");
+    width: 131px;
+    height: 41px;
+    display: block;
+    margin: 10px 0 0;
+}
+
+footer {
+   background-color: #AAAAAA;
+   border-top: medium none;
+   padding: 60px 0 40px;
+   text-align: center;
 }
