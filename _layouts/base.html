@@ -33,7 +33,7 @@
       <ul class="nav navbar-nav">
         <li><a href="{{site.baseurl}}/">Getting started</a></li>
         {% for post in site.posts reversed %}
-          <li><a {% if post.url == page.url %}class="active"{% endif %} href="{{ post.url }}">{{ post.title }}</a></li>
+          <li><a {% if post.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         <li><a href="http://thepeople.p2pu.org/category/learning/">Discussion</a></li>
       </ul>
