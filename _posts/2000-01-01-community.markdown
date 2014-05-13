@@ -24,7 +24,14 @@ As a facilitator, you are designing a learning community. In your course, how
 - Celebrate successes
 - 
 
-Community is a continuum
+Community is a continuum. 
+
+Community is a sense of trust. Trust emerges when you share personal details.
+
+P2PU Examples: 
+
+School of Ed (number of organizers)
+Discourse (avatars)
 
 
 ##
