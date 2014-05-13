@@ -22,3 +22,5 @@ In Learning Design 101 you’ll produce a course that works like the web--networ
 # Who is P2PU?
 
 We believe the future of learning is passionate, playful and happens with other people. We’re the team behind courses like Play With Your Music, Learning Creative Learning, the Deeper Learning MOOC, and A Gentle Intro to Python. We build assessments via feedback and interactions. Also, we’re grassroots and a non-profit. 
+
+Vanessa and Dirk make a badass learning team.
