@@ -10,11 +10,28 @@ categories: [content]
 
 **At P2PU, we learn together.** What does that mean? It means that learning always has a “social context” or people who support each other, urge each other to stretch, suggest ideas or help solve problems. So the “P2PU way” of learning means that we must first find a group of like-minded folks, a crew or a tiger team. 
 
-We believe that designing a community is key to a good learning experience. While there are other modes of learning, and some folks like to learn alone, loads of research, experience and common sense tell us that *social engagement* sustains a learning path. In this part of the course, we’ll talk about different kinds of communities, and how to build one around your learning goals. 
+We believe that designing a community is key to a good learning experience. While there are other modes of learning, and some folks like to learn alone, there’s loads of research, experience and common sense that tells us that *social engagement* sustains a learning path. 
+
+Put another way, any online learning experience consists of three parts:
+
+- Social presence (the sense that people are in the room and value each other)
+- Cognitive presence (ideas fleshed out, iterated upon, content produced)
+- Teaching presence (questions, challenges, feedback)
+
+The way those pieces work together looks like this:
+
+![]({{site.baseurl}}/img/coi-presentation-diagram.jpg)
+
+
+
+
+In this part of the course, we’ll talk about “social presence” (or community), and how to build one around your learning goals. 
 
 ##What’s Community?
 
-Community is a sense of *shared purpose and belonging*. Think about your local PTA, block party association, church, book club or 
+Community is a sense of *shared purpose and belonging*. Think about your local PTA, block party organization, church, book club or alumni association. There’s always a reason that you’re there, and a sense that you’re included. 
+
+As a course facilitator, you are designing a learning community. Peer-to-peer learning is a network of people helping each other. Once you have your learning goals established, the next series of ideas to think about is how to build a community around those goals. 
 
 
 As a facilitator, you are designing a learning community. In your course, how 
@@ -49,6 +66,10 @@ In 2013, P2PU and [Open Knowledge](http://us.okfn.org/) teamed up to offer [“D
 - *Summaries of Hangouts*: In a brilliant move, Agents sent a summary of the synchronous Hangout to the whole group, which kept the folks who couldn’t make it in the loop.
 
 See the full recap at [Data MOOC: Results, Findings and Recommendations](http://info.p2pu.org/2013/06/18/data-mooc-results-findings-and-recommendations/)
+
+## Rhizomatic Learning: The Community is the Curriculum
+
+
 
 
 ##
