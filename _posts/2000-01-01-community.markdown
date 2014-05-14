@@ -12,34 +12,39 @@ categories: [content]
 
 We believe that designing a community is key to a good learning experience. While there are other modes of learning, and some folks like to learn alone, there’s loads of research, experience and common sense that tells us that *social engagement* sustains a learning path. 
 
-Put another way, any online learning experience consists of three parts:
+The way we see it, any online learning experience consists of three parts:
 
-- Social presence (the sense that people are in the room and value each other)
-- Cognitive presence (ideas fleshed out, iterated upon, content produced)
-- Teaching presence (questions, challenges, feedback)
+- Social presence (community)
+- Cognitive presence (ideas)
+- Teaching presence (feedback)
 
 The way those pieces work together looks like this:
 
 ![]({{site.baseurl}}/img/coi-presentation-diagram.jpg)
 
-
-
+Source: [Community of Inquiry Framework)[http://www.uwb.edu/learningtech/elearning/hybrid-and-online-learning/hybrid-learning/faculty-hybrid/hybrid-intro]
 
 In this part of the course, we’ll talk about “social presence” (or community), and how to build one around your learning goals. 
 
-##What’s Community?
+##OK, But What’s Community?
 
 Community is a sense of *shared purpose and belonging*. Think about your local PTA, block party organization, church, book club or alumni association. There’s always a reason that you’re there, and a sense that you’re included. 
 
 As a course facilitator, you are designing a learning community. Peer-to-peer learning is a network of people helping each other. Once you have your learning goals established, the next series of ideas to think about is how to build a community around those goals. 
 
+In your course, how will you:
 
-As a facilitator, you are designing a learning community. In your course, how 
+- Ask learners to participate?
+Often at P2PU learners and facilitators design the course together. We talked about collaborative goal-setting in the last section, and asking for input or feedback on the course design is a great first step. 
 
-- How to ask people to participate in the course
-- How to welcome people to the community
-- Celebrate successes
-- 
+- Welcome new members to the community?
+We like to ask folks to introduce themselves on [thepeople.org](http://thepeople.p2pu.org/t/please-introduce-yourself/28). We build social presence by asking people a bit about their personality and their background. 
+
+![]({{site.baseurl}}/img/Screen Shot 2014-05-14 at 5.25.09 PM)
+
+- Celebrate successes?
+
+ 
 
 Community is a continuum. 
 
