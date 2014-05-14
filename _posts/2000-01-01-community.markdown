@@ -40,7 +40,7 @@ Often at P2PU learners and facilitators design the course together. We talked ab
 - Welcome new members to the community?
 We like to ask folks to introduce themselves on [thepeople.org](http://thepeople.p2pu.org/t/please-introduce-yourself/28). We build social presence by asking people a bit about their personality and their background. 
 
-![]({{site.baseurl}}/img/Screen Shot 2014-05-14 at 5.25.09 PM)
+![]({{site.baseurl}}/img/thepeopleintro.png)
 
 - Celebrate successes?
 
