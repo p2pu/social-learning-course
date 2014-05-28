@@ -1,5 +1,6 @@
 ---
-title: "Community: The Dynamics of Generating Awesome."
+title: "Community"
+subtitle: "The Dynamics of Generating Awesome."
 layout: course_page
 categories: [content]
 ---
