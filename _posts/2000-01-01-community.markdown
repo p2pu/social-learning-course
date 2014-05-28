@@ -23,7 +23,7 @@ The way those pieces work together looks like this:
 
 ![]({{site.baseurl}}/img/coi-presentation-diagram.jpg)
 
-Source: [Community of Inquiry Framework)[http://www.uwb.edu/learningtech/elearning/hybrid-and-online-learning/hybrid-learning/faculty-hybrid/hybrid-intro]
+Source: [Community of Inquiry Framework](http://www.uwb.edu/learningtech/elearning/hybrid-and-online-learning/hybrid-learning/faculty-hybrid/hybrid-intro)
 
 In this part of the course, we’ll talk about “social presence” (or community), and how to build one around your learning goals. 
 
