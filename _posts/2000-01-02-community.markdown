@@ -12,11 +12,11 @@ categories: [content]
 ## What Does a Learning Community Look Like?
 [Dave Cormier](http://davecormier.com/), lead raconteur of [Rhizomatic Learning: the Community is the Curriculum](https://p2pu.org/en/courses/882/rhizomatic-learning-the-community-is-the-curriculum/) ([#rhizo14](https://twitter.com/search?q=rhizo14&src=typd)) and reluctant stepfather of the MOOC movement, answers the following core questions:
 
- - Why is learning in community important?
-  - How do you ask people to participate?
-   - How did you build with your audience?
+- Why is learning in community important?
+- How do you ask people to participate?
+- How did you build with your audience?
 
-   [![Dave Cormier - How We Built Rhizomatic Learning]](http://img.youtube.com/vi/c4KM9QgfOXA/0.jpg)](http://youtu.be/c4KM9QgfOXA?t=2s)
+[![Dave Cormier - How We Built Rhizomatic Learning](http://img.youtube.com/vi/c4KM9QgfOXA/0.jpg)](http://youtu.be/c4KM9QgfOXA?t=2s)
 
 
 ##Why does Community Matter for Learning?
