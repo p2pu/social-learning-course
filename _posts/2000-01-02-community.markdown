@@ -162,5 +162,5 @@ Expanding your course design team is the first step in building your learning co
 - Who are other experts in the field who would want to contribute ideas and resources? 
 - Reach out to 3-4 folks, show them your hackpad and ask for feedback and additional ideas.
 
-Copy and paste your answers and a link to your hackpads below :smile: 
+Copy and paste your answers and a link to your hackpads [on discourse](http://thepeople.p2pu.org/category/how-to-build-a-learning-community/community) 
 
