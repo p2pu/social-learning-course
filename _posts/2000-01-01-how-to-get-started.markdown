@@ -23,12 +23,13 @@ We’re betting you’d like to run a course. We’re eager to help you. The pur
 **All of this is to say that P2PU tends to question where the power comes from in a learning experience.** Here's a few ways that comes across in what we do:
 
  - **Freedom**. The learners are in charge. All courses are free and under an open license (CC-BY-SA).
-  - **Choice**. Participate in the way you’d like to, using the tools you are curious about. 
-   - **Networked**. We help you find your crew of like-minded folks to make things together, critique each other, and generally feel comfy on the internet.
-    - **Support**. We offer tools, guides and feedback to help folks create great learning experiences on the web.
+ - **Choice**. Participate in the way you’d like to, using the tools you are curious about. 
+ - **Networked**. We help you find your crew of like-minded folks to make things together, critique each other, and generally feel comfy on the internet.
+ - **Support**. We offer tools, guides and feedback to help folks create great learning experiences on the web.
 
-    And once a week we get together and hatch plans on Google Hangout:
-    <img src="//discourse-uploads.s3.amazonaws.com/14656935f916b628e38b47b039a812163fa89744619.jpg" width="690" height="454"> 
+And once a week we get together and hatch plans on Google Hangout:
+
+<img src="//discourse-uploads.s3.amazonaws.com/14656935f916b628e38b47b039a812163fa89744619.jpg" width="690" height="454"> 
 
 # What Happens When You Learn in Community?
 
@@ -36,11 +37,11 @@ We’re betting you’d like to run a course. We’re eager to help you. The pur
 
 # Brass Tacks
 
- - **What's this course like?.**  This course will begin on the 1st of every month. We'd estimate that you'll have a course in about 2-3 weeks. Each piece of the course will consist of big ideas, examples, projects, and good ideas from other people. 
+- **What's this course like?.**  This course will begin on the 1st of every month. We'd estimate that you'll have a course in about 2-3 weeks. Each piece of the course will consist of big ideas, examples, projects, and good ideas from other people. 
 
-  - **What's the P2PU vibe?** We'll be working together the P2PU way. You'll share your ideas with others, give feedback, iterate, and then build a concrete part of your course. At the end of the program you’ll have a series of design principles to work from, a core community to participate with, draft activities to use in your course, and familiarity with the tools and platforms to get started. 
+- **What's the P2PU vibe?** We'll be working together the P2PU way. You'll share your ideas with others, give feedback, iterate, and then build a concrete part of your course. At the end of the program you’ll have a series of design principles to work from, a core community to participate with, draft activities to use in your course, and familiarity with the tools and platforms to get started. 
 
-   - **Do you <3 hackpad?** We do. We heartily recommend this suuuuuper easily collaborative tool: https://hackpad.com. If it's not your bag, any text document that you can share will do for now :)
+- **Do you <3 hackpad?** We do. We heartily recommend this suuuuuper easily collaborative tool: https://hackpad.com. If it's not your bag, any text document that you can share will do for now :)
 
 # P2PU Examples of Triggering Events
 
