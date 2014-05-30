@@ -1,5 +1,5 @@
 ---
-title: "Community"
+title: "Community: the Dynamics of Generating Awesome"
 subtitle: "The Dynamics of Generating Awesome."
 layout: course_page
 categories: [content]
@@ -19,7 +19,7 @@ categories: [content]
 [![Dave Cormier - How We Built Rhizomatic Learning](http://img.youtube.com/vi/c4KM9QgfOXA/0.jpg)](http://youtu.be/c4KM9QgfOXA?t=2s)
 
 
-##Why does Community Matter for Learning?
+## Why does Community Matter for Learning?
 
 **Diversity of perspectives.** As Dave said, books are inert objects. Pushing "play" on a video is one passive experience. When you engage ideas with other people, the dialogue and exchanges challenge you to look at things several different ways. We won't tell you what to think--engaging others helps us think uniquely and engage collaboratively.
 
@@ -41,7 +41,7 @@ Source: [Community of Inquiry Framework](http://www.uwb.edu/learningtech/elearni
 
 In this part of the course, we’ll talk about “social presence” (or community), and how to build one around your learning goals. 
 
-##OK, But What’s Community?
+## OK, But What’s Community?
 
 Community is a sense of *shared purpose and belonging*. Think about your local PTA, block party organization, church, book club or alumni association. There’s always a reason that you’re there, and a sense that you’re included. 
 
@@ -60,14 +60,13 @@ We like to ask folks to introduce themselves on [thepeople.org](http://thepeople
 - Celebrate successes?
 
  
-
  Community is a continuum. 
 
  Community is a sense of trust. Trust emerges when you share personal details.
 
-## P2PU Examples: 
+# P2PU Examples: 
 
-### P2PU School of Ed.
+## P2PU School of Ed.
 In 2011, [Karen Fasimpaur](https://twitter.com/kfasimpaur) was looking to experiment with teacher professional development. She wanted to focus on  inquiry, self-direction, critical thinking, and collaboration with continuing education that was relevant to the lives of teachers. What came out of her curiosity was the P2PU School of Ed. 30 courses on the [p2pu.org](https://p2pu.org/en/) platform and two years later, she recommends the following design principles:
 
 >First, in our experience, the formation of community has been critical. The social nature of peer learning relies on trust and relationships. This is not something that can be fostered over a few weeks. While this kind of community-building takes time, we are beginning to see some evidence of it at P2PU. In large part this has been due to the ongoing, generous participation of many individuals, as well as organizations such as the National Writing Project. We have benefitted greatly from the participation of their already-existing community of passionate and deep thinking educators who share our values and goals.
@@ -77,6 +76,7 @@ In 2011, [Karen Fasimpaur](https://twitter.com/kfasimpaur) was looking to experi
 Check out the full report at [reports.p2pu.org](http://reports.p2pu.org/reports/school_of_ed/soe_index.html)
 
 ## Data Explorer Mission
+
 In 2013, P2PU and [Open Knowledge](http://us.okfn.org/) teamed up to offer [“Data Explorer Missions”](http://schoolofdata.org/datamooc/) an introduction to working with data over the course of 3 weeks. 151 learners signed up for our initial pilot. After the course ended, we took at look at the engagement metrics—one group (Team 10) cohered quickly and took off like a rocketship. When we looked into their comments to each other, we saw how they built *social presence*, *trust* and *asked each other to participate*.
 
 - *Spontaneous prompts to check in*: Members sent short messages to each other to keep the course alive, i.e. “Are you doing alright? Haven’t heard from you in ages” “Just making some noise.”
@@ -88,11 +88,6 @@ In 2013, P2PU and [Open Knowledge](http://us.okfn.org/) teamed up to offer [“D
 See the full recap at [Data MOOC: Results, Findings and Recommendations](http://info.p2pu.org/2013/06/18/data-mooc-results-findings-and-recommendations/)
 
 ## Rhizomatic Learning: The Community is the Curriculum
-
-
-
-
-##
 
 
 
@@ -114,7 +109,7 @@ Philipp Schmidt, [The Great Peer Learning Pyramid Scheme](http://dmlcentral.net/
 
 Alex Hillman, [How To Fund Your Coworking Space](http://dangerouslyawesome.com/2011/09/how-to-fund-your-coworking-space/)
 
-# Community: Other People’s Good Ideas
+# Other People’s Good Ideas
 
 ## Community of Inquiry Model
 
@@ -130,7 +125,7 @@ Alex Hillman, [How To Fund Your Coworking Space](http://dangerouslyawesome.com/2
 
 Garrison, D. R., Anderson, T., & Archer, W. (2000). [Critical inquiry in a text-based environment: Computer conferencing in higher education model](http://cde.athabascau.ca/coi_site/documents/Garrison_Anderson_Archer_Critical_Inquiry_model.pdf). The Internet and Higher Education, 2(2-3), 87-105.
 
-##Traits of Communities
+## Traits of Communities
 
 > The sense of belonging and identification involves the feeling, belief, and expectation that one fits in the group and has a place there, a feeling of acceptance by the group, and a willingness to sacrifice for the group. The role of identification must be emphasized here. It may be represented in the reciprocal statements "It is my group" and "I am part of the group."
 
