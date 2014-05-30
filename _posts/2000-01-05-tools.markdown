@@ -4,9 +4,92 @@ layout: course_page
 categories: [content]
 ---
 
-# Ideas
+## Claim a corner of the web
 
-# Projects 
+You are running a course on the internet right, where? The first important step is to get somewhere on the web that you can call HQ. There are many ways to do this, but we'll focus on using github pages.
 
-# Resources
+### Github pages + magic sand
 
+Github pages is a place where you can create content that will live on the web. This page you are reading right now lives on github pages for example. We'll be adding some magic sand later, but for now the process of getting your own version of github pages is to fork this repository.
+
+After you've forked the repository, you should follow the instructions [here]() to start filling out the details with the information about your course.
+
+### Bonus round: truly claim your space *
+
+You've claimed a corner on the internet, but the truth is that you are sleeping on the couch at Github and even though they probably won't throw you out, you don't want your bank statements to show up at their doorstep if they do throw you out some day. To prevent this you need to register a custom domain name. This is like a forwarding address that you can use to get your bills on the couch at Github, but also when you move into your very own apartment!
+
+## Spread your tenticles to reach into the web
+
+So having a place to put info on the web is great and owning the address too, but you are using the web as the platform, and that means the whole web!
+
+### Twitter
+
+### Email
+
+### Discourse
+
+### Facebook *
+
+### Google+ *
+
+### Disqus *
+
+### IFTT *
+
+## Set some snares to know what's going on
+
+So, you've spread your wings and send the masses to the internet, but you would still like to have an idea of what's going on.
+
+### Google Analytics
+
+### Dashboards *
+
+### Email tracking *
+
+### Tools for surveys *
+
+## Utilize other people's hard work
+
+Sometimes you want to do more, but you don't have the skills/budget/time/patience/etc.
+
+### APIs *
+
+There are several APIs out there that you can use to your advantage. For example, for Play with your music we wanted to do something special to put users together in groups with similar musical tastes. We leveraged the EchoNest API to do all the hard thinking.
+
+Other APIs with potential for use in education includes:
+
+- ???
+
+## Show the internet what you know
+
+Once you have done the course, you want everyone who have done so to be able to show the world what they have learner. Maybe you are in the position to issue college credits or give certificates from a traditional educational institution, but chances are that you are not.
+
+### Badges
+
+One possible way is to use Open Badges. We've worked hard to create the tools to create and issue badges. badges.p2pu.org
+
+### Portfolios *
+
+Another way of showing what you know is by showing what you have done. Like claiming a corner for your course, learners also need to claim a corner where they can show their work.
+
+
+## Wait, but people haven't signed up!!
+
+That depends on the tools you choose to use.
+
+
+# Examples at P2PU
+
+## Play with your music (playwithyourmusic.org)
+
+Talk about the Mechanical MOOC.
+
+## Teach the web (training.webmakerprototypes.org)
+
+For teach the web we used Github pages, discourse, a mailing list for signup and badges for feedback and assessment.
+
+We did all the collaboration using github issues, forks, pull requests, etc. This may not be your cup of tea - forking a github repository and submitting pull requests isn't what most people think of as fun - but if you are familiar with these concepts it is a very flexible and powerful solution.
+
+## Social learning course (??.p2pu.org)
+
+Github pages + github for collaboration + discourse + (Github pages + github for collaboration + discourse + (...)) - you get the idea!
