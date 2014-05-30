@@ -80,10 +80,10 @@ Check out the full report at [reports.p2pu.org](http://reports.p2pu.org/reports/
 In 2013, P2PU and [Open Knowledge](http://us.okfn.org/) teamed up to offer [“Data Explorer Missions”](http://schoolofdata.org/datamooc/) an introduction to working with data over the course of 3 weeks. 151 learners signed up for our initial pilot. After the course ended, we took at look at the engagement metrics—one group (Team 10) cohered quickly and took off like a rocketship. When we looked into their comments to each other, we saw how they built *social presence*, *trust* and *asked each other to participate*.
 
 - *Spontaneous prompts to check in*: Members sent short messages to each other to keep the course alive, i.e. “Are you doing alright? Haven’t heard from you in ages” “Just making some noise.”
-- *Familiarity*: Agents referred to each other by name (as opposed to “Team 10″) and shared bits of contextual information about their lives, such as when they found time to do the assignments, where they were traveling, etc.
+- *Familiarity*: Members referred to each other by name (as opposed to “Team 10″) and shared bits of contextual information about their lives, such as when they found time to do the assignments, where they were traveling, etc.
 - *Building upon shared interest*: Team 10 shared content related to the subject matter of the course that others might find interesting–such as other Data MOOCs, White House open data, etc.
-- *Tried new tools together*: Agents tried out new tools like Google Fusion Tables together, and shared their frustrations, setbacks and successes. 
-- *Summaries of Hangouts*: In a brilliant move, Agents sent a summary of the synchronous Hangout to the whole group, which kept the folks who couldn’t make it in the loop.
+- *Tried new tools together*: Members tried out new tools like Google Fusion Tables together, and shared their frustrations, setbacks and successes. 
+- *Summaries of Hangouts*: In a brilliant move, members sent a summary of the synchronous Hangout to the whole group, which kept the folks who couldn’t make it in the loop.
 
 See the full recap at [Data MOOC: Results, Findings and Recommendations](http://info.p2pu.org/2013/06/18/data-mooc-results-findings-and-recommendations/)
 
