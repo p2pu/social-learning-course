@@ -1,8 +1,9 @@
 ---
-title: "Community: the Dynamics of Generating Awesome"
+title: "Community"
 subtitle: "The Dynamics of Generating Awesome."
 layout: course_page
-categories: [content]
+categories: [modules]
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt ac tortor ut vehicula. Mauris luctus nibh congue libero fermentum porttitor. Sed adipiscing sapien non velit venenatis, eu aliquam quam vestibulum. "
 ---
 
 # Community: the Dynamics of Generating Awesome
