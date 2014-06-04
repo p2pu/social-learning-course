@@ -1,7 +1,8 @@
 ---
 title: 'How to get started'
 layout: course_page
-categories: [content]
+categories:
+excerpt:
 ---
 
 # Let Our Powers Combine
