@@ -2,6 +2,7 @@
 layout: default
 category: course_about
 tite: "Who Else is Here?"
+featured-icon: "users"
 ---
 
 

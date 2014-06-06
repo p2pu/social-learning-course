@@ -1,13 +1,24 @@
 ---
 layout: base
+body-class: "left-sidebar"
 ---
-<div class="container course-page-wrapper">
-	<div class="row">
-		<div class="content col-md-12 col-lg-12">
-			{{ content }}
-		</div>
+<article id="main">
+	<header class="special container">
+		<span class="icon fa-cubes"></span>
 
+		<h2>{{ page.title }}</h2>
+
+	</header>
+
+	<div class="wrapper style4 container">
+		<div class="row">
+			<div class="col-md-8 skel-cell-important">
+				{{ content }}
+			</div>
+
+		</div>
 	</div>
-</div>
+</article>
+
 
 

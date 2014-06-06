@@ -124,12 +124,8 @@
 	}
 }
 
-.featured-icon{
-	float: left;
-}
 
-.featured-icon:before {
-	content: "\f059";
+.featured-icon {
 	padding: 20px;
 	float: left;
 	font-size: 8em;
@@ -137,17 +133,3 @@
 	margin-left: 0;
 }
 
-.fa-feature-stack {
-	width: 10em;
-	height: 10em;
-	margin: 20px 0;
-
-	.fa-stack-2x {
-		font-size: 10em;
-	}
-
-	.fa-stack-1x {
-		line-height: 2;
-		font-size: 5em;
-	}
-}
