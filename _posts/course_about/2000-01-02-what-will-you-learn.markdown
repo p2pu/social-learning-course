@@ -2,6 +2,7 @@
 layout: default
 category: course_about
 title: "What You’ll Learn"
+featured-icon: "graduation-cap"
 ---
 
 In Learning Design 101 you’ll produce a course that works like the web--networked, open, community-driven and sustainable. You’ll develop your course using the methodologies we use at P2PU to build learning communities on the web. From “jump” you’ll be in the thick of:

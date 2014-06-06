@@ -368,25 +368,11 @@ input[type="text"], input[type="password"], input[type="email"] {
     line-height: 2.1em; }
 
 .featured-icon {
-  float: left; }
-
-.featured-icon:before {
-  content: "\f059";
   padding: 20px;
   float: left;
   font-size: 8em;
   margin: 35px;
   margin-left: 0; }
-
-.fa-feature-stack {
-  width: 10em;
-  height: 10em;
-  margin: 20px 0; }
-  .fa-feature-stack .fa-stack-2x {
-    font-size: 10em; }
-  .fa-feature-stack .fa-stack-1x {
-    line-height: 2;
-    font-size: 5em; }
 
 /* Lists */
 ol.default {

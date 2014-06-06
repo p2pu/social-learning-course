@@ -2,10 +2,9 @@
 title: 'How to get started'
 layout: course_page
 categories:
-excerpt:
+title: "Let Our Powers Combine"
 ---
 
-# Let Our Powers Combine
 ## How to Learn the P2PU Way
 
 <img src="//discourse-uploads.s3.amazonaws.com/14116df50bb33f48e9008e8e851e33cc17530cfc32b.gif" width="268" height="200"> <img src="//discourse-uploads.s3.amazonaws.com/1425d94071532ca0b0eaccff1fc19731817328126ff.gif" width="268" height="200"> <img src="//discourse-uploads.s3.amazonaws.com/143bc138342119d16e353fb15fb75b14c0899c03772.gif" width="268" height="200"> <img src="//discourse-uploads.s3.amazonaws.com/14437cbf4fdca54a51dfaf205e32311ca528973b35c.gif" width="268" height="200"> 
