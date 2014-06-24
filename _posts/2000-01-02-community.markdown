@@ -3,7 +3,7 @@ title: "Community"
 subtitle: "The Dynamics of Generating Awesome."
 layout: course_page
 categories: [modules]
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt ac tortor ut vehicula. Mauris luctus nibh congue libero fermentum porttitor. Sed adipiscing sapien non velit venenatis, eu aliquam quam vestibulum. "
+excerpt: Find out why community is important in learning something new, what makes robust communities tick, and start co-designing your course. 
 ---
 
 # Community: the Dynamics of Generating Awesome
