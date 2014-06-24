@@ -2,7 +2,7 @@
 title: Tools
 layout: course_page
 categories: [modules]
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt ac tortor ut vehicula. Mauris luctus nibh congue libero fermentum porttitor. Sed adipiscing sapien non velit venenatis, eu aliquam quam vestibulum. "
+excerpt: You'll select the technology that's right for your course, from forums to email services to analytics and survey tools. 
 ---
 
 ## Claim a corner of the web
