@@ -1,5 +1,5 @@
 encoding: utf-8
 markdown: redcarpet
-url: p2pu.github.io
-baseurl: /social-learning-course
+url: howto.p2pu.org
+baseurl:
 permalink: /:title/
