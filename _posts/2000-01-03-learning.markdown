@@ -2,7 +2,7 @@
 title: Learning Theories
 layout: course_page
 categories: [modules]
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt ac tortor ut vehicula. Mauris luctus nibh congue libero fermentum porttitor. Sed adipiscing sapien non velit venenatis, eu aliquam quam vestibulum. "
+excerpt: Revoluntary ideas, practical methods. You'll learn how to structure project-based learning experiences, design for different types of learners, and how to develop content that sparks & sustains participation. 
 ---
 
 ## Jim Groom on Learning Theories for Communities
