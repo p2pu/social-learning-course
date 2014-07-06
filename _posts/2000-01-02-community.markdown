@@ -21,9 +21,9 @@ excerpt: Find out why community is important in learning something new, what mak
 
 ## Why does Community Matter for Learning?
 
-**Diversity of perspectives.** As Dave said, books are inert objects. Pushing "play" on a video is one passive experience. When you engage ideas with other people, the dialogue and exchanges challenge you to look at things several different ways. We won't tell you what to think--engaging others helps us think uniquely and engage collaboratively.
+*Diversity of perspectives.* As Dave said, books are inert objects. Pushing "play" on a video is one passive experience. When you engage ideas with other people, the dialogue and exchanges challenge you to look at things several different ways. We won't tell you what to think--engaging others helps us think uniquely and engage collaboratively.
 
-**Support and stretch.** When you find your learning crew--the folks who share your vision and your values--they can buoy you up when you encounter setbacks and help you set the next goalpost. They can deliver feedback that helps you hone in on weaknesses or develop strengths. 
+*Support and stretch.* When you find your learning crew--the folks who share your vision and your values--they can buoy you up when you encounter setbacks and help you set the next goalpost. They can deliver feedback that helps you hone in on weaknesses or develop strengths. 
 
 *Learners go farther when they learn together.*
 
@@ -50,23 +50,9 @@ As a course facilitator, you are designing a learning community. Peer-to-peer le
 In your course, how will you:
 
 - Ask learners to participate?
-Often at P2PU learners and facilitators design the course together. We talked about collaborative goal-setting in the last section, and asking for input or feedback on the course design is a great first step. 
+Often at P2PU learners and facilitators design the course together. We talked about collaborative goal-setting in the last section, and asking for input or feedback on the course design is a great first step.
 
-- Welcome new members to the community?
-We like to ask folks to introduce themselves on [thepeople.org](http://thepeople.p2pu.org/t/please-introduce-yourself/28). We build social presence by asking people a bit about their personality and their background. 
-
-<img src="//discourse-uploads.s3.amazonaws.com/139b1013f766915a79ca48f2837ea1808e67df308cc.png" width="690" height="328"> 
-
-- Celebrate successes?
-
- 
- Community is a continuum. 
-
- Community is a sense of trust. Trust emerges when you share personal details.
-
-# P2PU Examples: 
-
-## P2PU School of Ed.
+## P2PU Example: School of Ed.
 In 2011, [Karen Fasimpaur](https://twitter.com/kfasimpaur) was looking to experiment with teacher professional development. She wanted to focus on  inquiry, self-direction, critical thinking, and collaboration with continuing education that was relevant to the lives of teachers. What came out of her curiosity was the P2PU School of Ed. 30 courses on the [p2pu.org](https://p2pu.org/en/) platform and two years later, she recommends the following design principles:
 
 >First, in our experience, the formation of community has been critical. The social nature of peer learning relies on trust and relationships. This is not something that can be fostered over a few weeks. While this kind of community-building takes time, we are beginning to see some evidence of it at P2PU. In large part this has been due to the ongoing, generous participation of many individuals, as well as organizations such as the National Writing Project. We have benefitted greatly from the participation of their already-existing community of passionate and deep thinking educators who share our values and goals.
@@ -75,7 +61,17 @@ In 2011, [Karen Fasimpaur](https://twitter.com/kfasimpaur) was looking to experi
 
 Check out the full report at [reports.p2pu.org](http://reports.p2pu.org/reports/school_of_ed/soe_index.html)
 
-## Data Explorer Mission
+- Welcome new members to the community?
+We like to ask folks to introduce themselves on [thepeople.org](http://thepeople.p2pu.org/t/please-introduce-yourself/28). We build social presence by asking people a bit about their personality and their background. 
+
+<img src="//discourse-uploads.s3.amazonaws.com/139b1013f766915a79ca48f2837ea1808e67df308cc.png" width="690" height="328"> 
+- Celebrate successes? 
+How will learners recognize a-ha moments, useful resources, or admit they need help? At P2PU we use [spirit fingers](https://www.youtube.com/watch?v=RTSkvAabm0k) to give each other props, which is a part of our culture that's evolved over time. Rituals cement culture. What will yours be?
+
+- Prompt learners to share who they are? 
+Community is a sense of trust. That trust emerges when people are more than a digital avatar. In our experience, the courses with the highest sustained engagement are the ones where people are more than just avatars--they share where they live, what they like, what they are afraid of. Sharing leads to vulnerability, which makes an environment safe for risk-taking. See the Data Explorer Mission below for an example. 
+
+## P2PU Example: Data Explorer Mission
 
 In 2013, P2PU and [Open Knowledge](http://us.okfn.org/) teamed up to offer [“Data Explorer Missions”](http://schoolofdata.org/datamooc/) an introduction to working with data over the course of 3 weeks. 151 learners signed up for our initial pilot. After the course ended, we took at look at the engagement metrics—one group (Team 10) cohered quickly and took off like a rocketship. When we looked into their comments to each other, we saw how they built *social presence*, *trust* and *asked each other to participate*.
 
@@ -87,11 +83,9 @@ In 2013, P2PU and [Open Knowledge](http://us.okfn.org/) teamed up to offer [“D
 
 See the full recap at [Data MOOC: Results, Findings and Recommendations](http://info.p2pu.org/2013/06/18/data-mooc-results-findings-and-recommendations/)
 
-## Rhizomatic Learning: The Community is the Curriculum
 
 
-
-# Resources
+# Other People's Good Ideas
 
 ## Why Social Learning?
 >We found that learners studied over 2x as many questions when they were in a group study session as when they were alone. This was important because we wanted to make sure that studying with others wasn’t just making people slower to answer questions. But learners study more than twice as many questions, on average, when in group study than when they study alone.
@@ -108,8 +102,6 @@ Philipp Schmidt, [The Great Peer Learning Pyramid Scheme](http://dmlcentral.net/
 >Where you find them will vary. What they’ll look like will vary. But these first 10 people are the human seeds of your coworking space to be. They will be the #1 reason that other people want to come work with you at your coworking space.
 
 Alex Hillman, [How To Fund Your Coworking Space](http://dangerouslyawesome.com/2011/09/how-to-fund-your-coworking-space/)
-
-# Other People’s Good Ideas
 
 ## Community of Inquiry Model
 
