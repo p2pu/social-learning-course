@@ -134,15 +134,17 @@ CAST, "[Post Secondary Triple Blended Courses](http://udloncourse.cast.org/page/
 
 # Projects
 
-## Project 6: 
-Project: Design your activities. 
-For each module/learning goal, create a prompt for a project that is:
-- open-ended
-- learners have freedom to choose how they will complete it
-- 
+## Project 6: Design your course activities. 
+Now that you have your learning goals, for each module/learning goal, create a prompt for a project that:
+- is open-ended and playful
+- learners have the freedom to choose how they will complete it
+- is easy to get started but learners can take as far as they want to go
+- prompts learners to find resources or create content together
 
-## Project 7: 
-Take each of your learning goals and find 5-6 resources that support each goal. 
-- diversity of content types
-- diversity of perspectives
+## Project 7: Find your resources. 
+Now that you have your activities, comb through and find 3-4 resources that might help learners accomplish those projects. As you pluck your resources, consider:
+- a diversity of content types (videos, graphics, text, podcasts)
+- a diversity of perspectives / viewpoints
+
+Complete both activities in your hackpad, and post to discourse. 
 
