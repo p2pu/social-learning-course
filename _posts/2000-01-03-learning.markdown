@@ -49,18 +49,34 @@ At the same time, we didn't want learners to feel constrained by the structure o
 - Learning styles. 
 We want learners to feel comfortable and give them options for how to engage. Like the Play With Your Music course we mentioned above, we encourage folks to convey the information in different ways--visually (like mental maps), audially (like pronounciation clips), or via text (like readings or Wikipedia entries). We recommend that you offer content that appeals to different styles, and give learners options for what sorts of projects they might want to undertake. 
 
- - [Play As Learning](http://web.media.mit.edu/~mres/papers/CC2007-handout.pdf)
- - Motivation and Engagement
+## Developing Content
 
- - Connected Learning
- - Affective Dimension of Learning
- - UDL: multiple modes of engagement
+Traditionally, online courses followed this very top-down, regimented formula:
 
-## Content
+<img src="https://raw.githubusercontent.com/p2pu/social-learning-course/gh-pages/img/Online%20Learning%20Formula.003.jpg" width="690" height="388"> 
 
- - Peers co-create content 
- - Tap Open Content 
- - Learners create content for other learners
+But open online courses think about content a bit differently. Since learners will find their own resources and interact with others, knowledge emerges organically. Here are a few ways that you can think about developing content in your course: 
+
+- Peers co-create the content. 
+
+In the video above, Jim Groom mentions that content is the "residue" of interactions in the course. What this means is that, when the activities are open-ended and creative, the social interactions around them build out much of what we think of as "content" for an open course. 
+
+In another P2PU course, [Rhizomatic Learning](https://p2pu.org/en/courses/882/rhizomatic-learning-the-community-is-the-curriculum/) Dave Cormier asked learners to participate in the design of the course--the community was going to decide what to learn together. After Dave "officially" stopped running the course in week 6, the course continued to evolve without him--proof of success if there every was one. 
+
+- Use openly-licensed content that already exists.
+
+Creative Commons licenses and the Open Education movement have given rise to a wealth of open educational resources. If you'd like to pull together a few foundational resources, [MIT OpenCourseWare](http://ocw.mit.edu/index.htm) and the [Saylor Foundation](http://www.saylor.org/) both are great sources for OER you can use in your course. Don't forget to attribute :)
+
+- Learners can create tutorials for other learners.
+
+Seasoned educators know that when a student teaches another student, their understanding deepens. That's peer learning in a nutshell. You might want to prompt learners to create a ["Teaching Kit"](http://discourse.webmakerprototypes.org/t/activity-1-create-a-teaching-kit/332) to accompany their project. For our [Mozilla Webmaker course](https://training.webmakerprototypes.org/en/), learners created these tutorials to help someone else complete the project in the future. 
+
+These teaching kits/tutorials ask learners to reflect on their project and model a ["reflective practice"](http://en.wikipedia.org/wiki/Reflective_practice) (mmmmm, tasty self-assessment). At the same time, learners are creating their own OERs to contributione to the wider open learning landscape. 
+
+## Course Length
+
+Communities are a continuum
+Recent research on moocs offers a 4-week sweet spot, but the community is ongoing
 
 ## P2PU Examples
 
@@ -109,10 +125,14 @@ CAST, "[Post Secondary Triple Blended Courses](http://udloncourse.cast.org/page/
 # Projects
 
 ## Project 6: 
-Project: Choose Your Design Principles for Your Course
+Project: Design your activities. 
+For each module/learning goal, create a prompt for a project that is:
+- open-ended
+- learners have freedom to choose how they will complete it
+- 
 
 ## Project 7: 
 Take each of your learning goals and find 5-6 resources that support each goal. 
+- diversity of content types
+- diversity of perspectives
 
-## Project 8: 
-Determine what kind of project learners could make that would satisfy each learning goal. What should they demonstrate that they understand? 
