@@ -1,18 +1,29 @@
 ---
-title: Learning Theories
+title: Learning Design
 layout: course_page
 categories: [modules]
 excerpt: Revoluntary ideas, practical methods. You'll learn how to structure project-based learning experiences, design for different types of learners, and how to develop content that sparks & sustains participation. 
 ---
 
 
-# Learning Theories: Fun + Feelings + Flow
+# Learning Design: Assignments, Content, Length 
 
 <img src="https://raw.githubusercontent.com/p2pu/social-learning-course/gh-pages/img/SocialLearning.005.jpg" width="690" height="388"> 
 
-## Jim Groom on Learning Theories for Communities
+## How to Design a Learning Experience that Works
 
-## Learning Theories
+[Jim Groom](http://bavatuesdays.com/) is the wizard behind the curtain at [ds106](http://ds106.us/), or Digital Storytelling 106--widely known as one of the most vibrant and successful learning communities on the internet. In this chat, we tackle:
+
+- What were the design principles behind your course?
+- How do you develop content for an open online course?
+- How do you motivate learners to sustain their interest?
+
+
+[![Jim Groom - Learning Design](http://img.youtube.com/vi/T_1ONj1vFBk/0.jpg)](https://www.youtube.com/watch?v=T_1ONj1vFBkt=2s)
+
+
+
+## Learning Design: Motivation, Play and Connection
 
  - [Play As Learning](http://web.media.mit.edu/~mres/papers/CC2007-handout.pdf)
  - Motivation and Engagement
