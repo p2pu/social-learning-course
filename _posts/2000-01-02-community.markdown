@@ -106,7 +106,7 @@ Philipp Schmidt, [The Great Peer Learning Pyramid Scheme](http://dmlcentral.net/
 Alex Hillman, [How To Fund Your Coworking Space](http://dangerouslyawesome.com/2011/09/how-to-fund-your-coworking-space/)
 
 *Codesign Means Successful Campaigns*
-![Indiegogo](indiegogo.jpg)
+<img src="Indiegogo.jpg" width="560" height="478"> 
 
 Indiegogo, [Campaign Playbook](http://go.indiegogo.com/playbook/life-cycle-phase/the-basics#learnwhat)
 
