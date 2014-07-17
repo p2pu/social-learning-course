@@ -96,12 +96,19 @@ Grockit, [An Experiment in Group Study](http://grockit.com/blog/main/2011/05/09/
 
 Philipp Schmidt, [The Great Peer Learning Pyramid Scheme](http://dmlcentral.net/blog/philipp-schmidt/great-peer-learning-pyramid-scheme)
 
-## Focus on Your First 10
+## Design With a Team
+
+*Focus on Your First 10*
 >People jumping straight into coworking calculating square footage & sizing up furniture, or obsessing over branding and their website, are skipping over the important and crucial step to developing a healthy community: *finding your first 10 coworkers*. Everything else can come after that.
 
 >Where you find them will vary. What they’ll look like will vary. But these first 10 people are the human seeds of your coworking space to be. They will be the #1 reason that other people want to come work with you at your coworking space.
 
 Alex Hillman, [How To Fund Your Coworking Space](http://dangerouslyawesome.com/2011/09/how-to-fund-your-coworking-space/)
+
+*Codesign Means Successful Campaigns*
+![Indiegogo](indiegogo.jpg)
+
+Indiegogo, [Campaign Playbook](http://go.indiegogo.com/playbook/life-cycle-phase/the-basics#learnwhat)
 
 ## Community of Inquiry Model
 
