@@ -1,7 +1,7 @@
 encoding: utf-8
 markdown: redcarpet
 url: howto.p2pu.org
-baseurl:
+baseurl: /social-learning-course
 permalink: /:title/
 ga_universal_tracking_id: UA-5757664-19
 ga_universal_tracking_domain: p2pu.org
